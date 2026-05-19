@@ -16,7 +16,7 @@ print ('Trieu chung:', age)
 
 # 2. Sửa lỗi :
 print('-- HỆ THỐNG TIẾP NHẬN BỆNH NHÂN --')
-name_patient = print('Nhập tên bệnh nhân: ')
+name_patient = input('Nhập tên bệnh nhân: ')
 age = int(input('Mời bạn nhập tuổi: '))
 symptom = input('Mời bạn nhập triệu chứng bệnh: ')
 
